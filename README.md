@@ -1,7 +1,5 @@
 ### Hi 👋, I'm Louis!
 
-I'm a Computer Science student, with a passion for Software Engineering.
-
 Some of my recent projects include:
 - Building a [Java simulation platform](https://github.com/louisheery/trust-sim) for simulating & evaluating computational models of Trust.
 - Launching an [iOS App](https://github.com/louisheery/what-the-impact-ios), that lets you track the environmental impact of the Food & Drink you consume.
